@@ -5,7 +5,7 @@ Karen Gong
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+LINK: [link](https://kwgong.github.io/Lab5/)
 
 ## Part 2:
 
