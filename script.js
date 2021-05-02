@@ -149,7 +149,9 @@ form.addEventListener('submit', (event) => {
   }
   else{*/
     ctx.fillText(`${form.elements[1].value}`, (canvas.width/2) - 30, 80);
+    ctx.strokeText(`${form.elements[1].value}`,(canvas.width/2) - 30, 80);
     ctx.fillText(`${form.elements[2].value}`, (canvas.width/2) - 30, canvas.height - 20);
+    ctx.strokeText(`${form.elements[2].value}`,(canvas.width/2) - 30, canvas.height - 20);
   //}
   ctx.textAlign = "center";
   clear.disabled = false;
